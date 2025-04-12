@@ -1,11 +1,11 @@
 {
   "parent": "villagerunknown-villagercoin:root",
   "criteria": {
-    "collectable_emerald_villager_coin": {
+    "collectable_copper_chicken_coin": {
       "conditions": {
         "items": [
           {
-            "items": "villagerunknown-villagercoin:collectable_emerald_villager_coin"
+            "items": "villagerunknown-villagercoin:collectable_copper_chicken_coin"
           }
         ]
       },
@@ -16,20 +16,20 @@
     "announce_to_chat": true,
     "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
     "description": {
-      "translate": "advancements.villagercoin.pickup_collectable_emerald_villager_coin.description"
+      "translate": "advancements.villagercoin.pickup_collectable_copper_chicken_coin.description"
     },
     "icon": {
       "count": 1,
-      "id": "villagerunknown-villagercoin:collectable_emerald_villager_coin"
+      "id": "villagerunknown-villagercoin:collectable_copper_chicken_coin"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.villagercoin.pickup_collectable_emerald_villager_coin.title"
+      "translate": "advancements.villagercoin.pickup_collectable_copper_chicken_coin.title"
     }
   },
   "requirements": [
     [
-      "collectable_emerald_villager_coin"
+      "collectable_copper_chicken_coin"
     ]
   ],
   "sends_telemetry_event": true

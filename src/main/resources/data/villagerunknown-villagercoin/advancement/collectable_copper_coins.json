@@ -5,7 +5,16 @@
       "conditions": {
         "items": [
           {
-            "items": "villagerunknown-villagercoin:collectable_copper_villager_coin"
+            "items": "villagerunknown-villagercoin:collectable_copper_cat_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_copper_chicken_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_copper_sheep_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_copper_iron_golem_coin"
           },
           {
             "items": "villagerunknown-villagercoin:collectable_copper_zombie_coin"
@@ -25,7 +34,7 @@
     "frame": "challenge",
     "icon": {
       "count": 1,
-      "id": "villagerunknown-villagercoin:collectable_copper_villager_coin"
+      "id": "villagerunknown-villagercoin:collectable_copper_iron_golem_coin"
     },
     "title": {
       "translate": "advancements.villagercoin.collectable_copper_coins.title"

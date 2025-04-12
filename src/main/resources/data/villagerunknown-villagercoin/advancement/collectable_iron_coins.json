@@ -5,7 +5,16 @@
       "conditions": {
         "items": [
           {
+            "items": "villagerunknown-villagercoin:collectable_iron_cat_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_iron_chicken_coin"
+          },
+          {
             "items": "villagerunknown-villagercoin:collectable_iron_golem_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_iron_sheep_coin"
           },
           {
             "items": "villagerunknown-villagercoin:collectable_iron_vex_coin"

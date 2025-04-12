@@ -25,11 +25,11 @@ public class MobsDropCollectableCoinsFeature {
 						if( entity.getType().equals( EntityType.PIGLIN ) || entity.getType().equals( EntityType.PIGLIN_BRUTE ) ) {
 						
 						} else if( MobsDropCoinsFeature.COMMON_MOB_DROPS.contains( entity.getType() ) ) {
-							coins.put( CollectableCoinItems.COLLECTABLE_COPPER_VILLAGER_COIN, 1 );
+							coins.put( CollectableCoinItems.COLLECTABLE_COPPER_IRON_GOLEM_COIN, 1 );
 						} else if( MobsDropCoinsFeature.RARE_MOB_DROPS.contains( entity.getType() ) ) {
 						
 						} else if( MobsDropCoinsFeature.EPIC_MOB_DROPS.contains( entity.getType() ) ) {
-							coins.put( CollectableCoinItems.COLLECTABLE_EMERALD_VILLAGER_COIN, 1 );
+							coins.put( CollectableCoinItems.COLLECTABLE_EMERALD_IRON_GOLEM_COIN, 1 );
 						} // if, else if ...
 						
 						MobsDropCoinsFeature.dropCoins( entity, damageSource, coins );

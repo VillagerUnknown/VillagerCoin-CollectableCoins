@@ -12,6 +12,9 @@
           },
           {
             "items": "villagerunknown-villagercoin:collectable_emerald_slime_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_emerald_iron_golem_coin"
           }
         ]
       },
@@ -25,7 +28,7 @@
     "frame": "challenge",
     "icon": {
       "count": 1,
-      "id": "villagerunknown-villagercoin:collectable_emerald_villager_coin"
+      "id": "villagerunknown-villagercoin:collectable_emerald_iron_golem_coin"
     },
     "title": {
       "translate": "advancements.villagercoin.collectable_emerald_coins.title"

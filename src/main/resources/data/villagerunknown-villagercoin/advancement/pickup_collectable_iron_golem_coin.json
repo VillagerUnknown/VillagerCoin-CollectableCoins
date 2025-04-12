@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:root",
+  "parent": "villagerunknown-villagercoin:pickup_collectable_iron_sheep_coin",
   "criteria": {
     "collectable_iron_golem_coin": {
       "conditions": {

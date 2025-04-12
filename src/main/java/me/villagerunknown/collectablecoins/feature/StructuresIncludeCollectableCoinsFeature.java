@@ -21,7 +21,7 @@ public class StructuresIncludeCollectableCoinsFeature {
 
 				if( StructuresIncludeCoinsFeature.COMMON_LOOT_TABLES.contains( registryKey ) || StructuresIncludeCoinsFeature.UNCOMMON_LOOT_TABLES.contains( registryKey ) ) {
 					poolBuilder
-							.with(ItemEntry.builder(CollectableCoinItems.COLLECTABLE_COPPER_VILLAGER_COIN).weight(100))
+							.with(ItemEntry.builder(CollectableCoinItems.COLLECTABLE_COPPER_IRON_GOLEM_COIN).weight(100))
 							.rolls(UniformLootNumberProvider.create(0, 20));
 				} // if
 
@@ -33,7 +33,7 @@ public class StructuresIncludeCollectableCoinsFeature {
 
 				if( StructuresIncludeCoinsFeature.EPIC_LOOT_TABLES.contains( registryKey ) ) {
 					poolBuilder
-							.with(ItemEntry.builder(CollectableCoinItems.COLLECTABLE_EMERALD_VILLAGER_COIN).weight(1))
+							.with(ItemEntry.builder(CollectableCoinItems.COLLECTABLE_EMERALD_IRON_GOLEM_COIN).weight(1))
 							.rolls(UniformLootNumberProvider.create(0, 1));
 				} // if
 				

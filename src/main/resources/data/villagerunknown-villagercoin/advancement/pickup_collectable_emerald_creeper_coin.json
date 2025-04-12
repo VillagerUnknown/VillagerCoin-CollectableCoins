@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:pickup_collectable_emerald_villager_coin",
+  "parent": "villagerunknown-villagercoin:pickup_collectable_emerald_iron_golem_coin",
   "criteria": {
     "collectable_emerald_creeper_coin": {
       "conditions": {
