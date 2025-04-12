@@ -1,7 +1,5 @@
 package me.villagerunknown.collectablecoins;
 
-import me.villagerunknown.collectablecoins.feature.MobsDropCollectableCoinsFeature;
-import me.villagerunknown.collectablecoins.feature.StructuresIncludeCollectableCoinsFeature;
 import me.villagerunknown.collectablecoins.feature.loader.CollectableCoinFeatureLoader;
 import me.villagerunknown.platform.Platform;
 import me.villagerunknown.platform.PlatformMod;
@@ -27,9 +25,6 @@ public class Collectablecoins implements ModInitializer {
 		
 		// # Activate Features
 		featureManager.addFeature( "collectableCoinFeatureLoader", CollectableCoinFeatureLoader::execute );
-		
-		featureManager.addFeature( "structuresIncludeCollectableCoins", StructuresIncludeCollectableCoinsFeature::execute );
-		featureManager.addFeature( "mobsDropCollectableCoins", MobsDropCollectableCoinsFeature::execute );
 	}
 	
 }
