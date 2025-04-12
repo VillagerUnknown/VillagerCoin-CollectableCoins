@@ -1,0 +1,36 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "text.autoconfig.villagerunknown-collectablecoins.category.General": "General",
+
+  "text.autoconfig.villagerunknown-collectablecoins.option.addCollectableCoinsToStructureLootTables": "Add Collectable Coins to Structure Loot Tables",
+  "text.autoconfig.villagerunknown-collectablecoins.option.addCollectableCoinsToMobDrops": "Add Collectable Coins to Mob Drops",
+
+  "tag.item.villagerunknown-villagercoin.collectable_villager_coin": "Collectable Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_villager_coin": "Collectable Copper Villager Coin",
+  "item.villagerunknown-villagercoin.collectable_iron_villager_coin": "Collectable Iron Villager Coin",
+  "item.villagerunknown-villagercoin.collectable_gold_villager_coin": "Collectable Gold Villager Coin",
+  "item.villagerunknown-villagercoin.collectable_emerald_villager_coin": "Collectable Emerald Villager Coin",
+  "item.villagerunknown-villagercoin.collectable_netherite_villager_coin": "Collectable Netherite Villager Coin",
+
+  "advancements.villagercoin.pickup_collectable_copper_coin.title": "Take A Penny, Eat A Penny",
+  "advancements.villagercoin.pickup_collectable_copper_coin.description": "Acquire your first Collectable Copper Villager Coin",
+
+  "advancements.villagercoin.pickup_collectable_iron_coin.title": "It's Not Ironic, It's Chocolate",
+  "advancements.villagercoin.pickup_collectable_iron_coin.description": "Acquire your first Collectable Iron Villager Coin",
+
+  "advancements.villagercoin.pickup_collectable_gold_coin.title": "Feeling A Little Gelty",
+  "advancements.villagercoin.pickup_collectable_gold_coin.description": "Acquire your first Collectable Gold Villager Coin",
+
+  "advancements.villagercoin.pickup_collectable_emerald_coin.title": "Hrm.. A Taste of Wealth",
+  "advancements.villagercoin.pickup_collectable_emerald_coin.description": "Acquire your first Collectable Emerald Villager Coin",
+
+  "advancements.villagercoin.pickup_collectable_netherite_coin.title": "It's An Acquired Taste",
+  "advancements.villagercoin.pickup_collectable_netherite_coin.description": "Acquire your first Collectable Netherite Villager Coin",
+
+  "advancements.villagercoin.collectable_villager_coins.title": "The Cost Of Groceries",
+  "advancements.villagercoin.collectable_villager_coins.description": "Acquire all of the collectable Villager Coins"
+
+}
