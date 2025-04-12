@@ -14,6 +14,7 @@
   "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Collectable Copper Creeper Coin",
   "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "Collectable Copper Sheep Coin",
   "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "Collectable Copper Iron Golem Coin",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "Collectable Copper Wolf Coin",
   "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Collectable Copper Zombie Coin",
 
   "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "Collectable Iron Cat Coin",
@@ -52,6 +53,9 @@
 
   "advancements.villagercoin.pickup_collectable_copper_iron_golem_coin.title": "More Valuable Than A Poppy",
   "advancements.villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Acquire a Collectable Copper Iron Golem Coin",
+
+  "advancements.villagercoin.pickup_collectable_copper_wolf_coin.title": "Howling For More",
+  "advancements.villagercoin.pickup_collectable_copper_wolf_coin.description": "Acquire a Collectable Copper Wolf Coin",
 
   "advancements.villagercoin.pickup_collectable_copper_zombie_coin.title": "Our Founding Zombies",
   "advancements.villagercoin.pickup_collectable_copper_zombie_coin.description": "Acquire a Collectable Copper Zombie Coin",

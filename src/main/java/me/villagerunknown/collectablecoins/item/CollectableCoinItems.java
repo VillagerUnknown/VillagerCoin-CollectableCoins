@@ -6,34 +6,35 @@ import net.minecraft.item.Item;
 
 public class CollectableCoinItems {
 	
-	public static Item COLLECTABLE_COPPER_CAT_COIN;
-	public static Item COLLECTABLE_COPPER_CHICKEN_COIN;
-	public static Item COLLECTABLE_COPPER_CREEPER_COIN;
-	public static Item COLLECTABLE_COPPER_SHEEP_COIN;
-	public static Item COLLECTABLE_COPPER_IRON_GOLEM_COIN;
-	public static Item COLLECTABLE_COPPER_ZOMBIE_COIN;
+	public static final Item COLLECTABLE_COPPER_CAT_COIN;
+	public static final Item COLLECTABLE_COPPER_CHICKEN_COIN;
+	public static final Item COLLECTABLE_COPPER_CREEPER_COIN;
+	public static final Item COLLECTABLE_COPPER_SHEEP_COIN;
+	public static final Item COLLECTABLE_COPPER_IRON_GOLEM_COIN;
+	public static final Item COLLECTABLE_COPPER_WOLF_COIN;
+	public static final Item COLLECTABLE_COPPER_ZOMBIE_COIN;
 	
-	public static Item COLLECTABLE_IRON_CAT_COIN;
-	public static Item COLLECTABLE_IRON_CHICKEN_COIN;
-	public static Item COLLECTABLE_IRON_GOLEM_COIN;
-	public static Item COLLECTABLE_IRON_SHEEP_COIN;
-	public static Item COLLECTABLE_IRON_VEX_COIN;
-	public static Item COLLECTABLE_IRON_SILVERFISH_COIN;
+	public static final Item COLLECTABLE_IRON_CAT_COIN;
+	public static final Item COLLECTABLE_IRON_CHICKEN_COIN;
+	public static final Item COLLECTABLE_IRON_GOLEM_COIN;
+	public static final Item COLLECTABLE_IRON_SHEEP_COIN;
+	public static final Item COLLECTABLE_IRON_VEX_COIN;
+	public static final Item COLLECTABLE_IRON_SILVERFISH_COIN;
 	
-	public static Item COLLECTABLE_GOLD_BLAZE_COIN;
-	public static Item COLLECTABLE_GOLD_PIGLIN_COIN;
-	public static Item COLLECTABLE_GOLD_GHAST_COIN;
-	public static Item COLLECTABLE_GOLD_MAGMA_CUBE_COIN;
-	public static Item COLLECTABLE_GOLD_WITHER_COIN;
+	public static final Item COLLECTABLE_GOLD_BLAZE_COIN;
+	public static final Item COLLECTABLE_GOLD_PIGLIN_COIN;
+	public static final Item COLLECTABLE_GOLD_GHAST_COIN;
+	public static final Item COLLECTABLE_GOLD_MAGMA_CUBE_COIN;
+	public static final Item COLLECTABLE_GOLD_WITHER_COIN;
 	
-	public static Item COLLECTABLE_EMERALD_CREEPER_COIN;
-	public static Item COLLECTABLE_EMERALD_PILLAGER_COIN;
-	public static Item COLLECTABLE_EMERALD_SLIME_COIN;
-	public static Item COLLECTABLE_EMERALD_IRON_GOLEM_COIN;
+	public static final Item COLLECTABLE_EMERALD_CREEPER_COIN;
+	public static final Item COLLECTABLE_EMERALD_PILLAGER_COIN;
+	public static final Item COLLECTABLE_EMERALD_SLIME_COIN;
+	public static final Item COLLECTABLE_EMERALD_IRON_GOLEM_COIN;
 	
-	public static Item COLLECTABLE_NETHERITE_ENDER_DRAGON_COIN;
-	public static Item COLLECTABLE_NETHERITE_ENDERMAN_COIN;
-	public static Item COLLECTABLE_NETHERITE_WITHER_COIN;
+	public static final Item COLLECTABLE_NETHERITE_ENDER_DRAGON_COIN;
+	public static final Item COLLECTABLE_NETHERITE_ENDERMAN_COIN;
+	public static final Item COLLECTABLE_NETHERITE_WITHER_COIN;
 	
 	public CollectableCoinItems() {}
 	
@@ -43,6 +44,7 @@ public class CollectableCoinItems {
 		COLLECTABLE_COPPER_CREEPER_COIN = CollectableCoinFeature.registerCollectableCoinItem( "collectable_copper_creeper_coin", CollectableCoinFeature.COPPER_VALUE, CoinFeature.COPPER_RARITY, CollectableCoinFeature.COPPER_DROP_CHANCE, CoinFeature.COPPER_FLIP_CHANCE, CollectableCoinFeature.COPPER_MAXIMUM_IN_CIRCULATION );
 		COLLECTABLE_COPPER_SHEEP_COIN = CollectableCoinFeature.registerCollectableCoinItem( "collectable_copper_sheep_coin", CollectableCoinFeature.COPPER_VALUE, CoinFeature.COPPER_RARITY, CollectableCoinFeature.COPPER_DROP_CHANCE, CoinFeature.COPPER_FLIP_CHANCE, CollectableCoinFeature.COPPER_MAXIMUM_IN_CIRCULATION );
 		COLLECTABLE_COPPER_IRON_GOLEM_COIN = CollectableCoinFeature.registerCollectableCoinItem( "collectable_copper_iron_golem_coin", CollectableCoinFeature.COPPER_VALUE, CoinFeature.COPPER_RARITY, CollectableCoinFeature.COPPER_DROP_CHANCE, CoinFeature.COPPER_FLIP_CHANCE, CollectableCoinFeature.COPPER_MAXIMUM_IN_CIRCULATION );
+		COLLECTABLE_COPPER_WOLF_COIN = CollectableCoinFeature.registerCollectableCoinItem( "collectable_copper_wolf_coin", CollectableCoinFeature.COPPER_VALUE, CoinFeature.COPPER_RARITY, CollectableCoinFeature.COPPER_DROP_CHANCE, CoinFeature.COPPER_FLIP_CHANCE, CollectableCoinFeature.COPPER_MAXIMUM_IN_CIRCULATION );
 		COLLECTABLE_COPPER_ZOMBIE_COIN = CollectableCoinFeature.registerCollectableCoinItem( "collectable_copper_zombie_coin", CollectableCoinFeature.COPPER_VALUE, CoinFeature.COPPER_RARITY, CollectableCoinFeature.COPPER_DROP_CHANCE, CoinFeature.COPPER_FLIP_CHANCE, CollectableCoinFeature.COPPER_MAXIMUM_IN_CIRCULATION );
 		
 		COLLECTABLE_IRON_CAT_COIN = CollectableCoinFeature.registerCollectableCoinItem( "collectable_iron_cat_coin", CollectableCoinFeature.IRON_VALUE, CoinFeature.IRON_RARITY, CollectableCoinFeature.IRON_DROP_CHANCE, CoinFeature.IRON_FLIP_CHANCE, CollectableCoinFeature.IRON_MAXIMUM_IN_CIRCULATION );

@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:pickup_collectable_copper_sheep_coin",
+  "parent": "villagerunknown-villagercoin:pickup_collectable_copper_wolf_coin",
   "criteria": {
     "collectable_copper_iron_golem_coin": {
       "conditions": {

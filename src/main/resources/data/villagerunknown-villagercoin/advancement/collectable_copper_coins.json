@@ -21,6 +21,9 @@
           },
           {
             "items": "villagerunknown-villagercoin:collectable_copper_creeper_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_copper_wolf_coin"
           }
         ]
       },
