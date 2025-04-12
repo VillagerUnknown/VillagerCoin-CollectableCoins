@@ -1,0 +1,40 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_collectable_netherite_wither_coin",
+  "criteria": {
+    "collectable_netherite_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:collectable_netherite_enderman_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_netherite_ender_dragon_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:collectable_netherite_wither_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagercoin.collectable_netherite_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:collectable_netherite_wither_coin"
+    },
+    "title": {
+      "translate": "advancements.villagercoin.collectable_netherite_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "collectable_netherite_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

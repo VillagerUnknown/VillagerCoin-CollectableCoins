@@ -9,28 +9,88 @@
 
   "tag.item.villagerunknown-villagercoin.collectable_villager_coin": "Collectable Villager Coin",
 
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Collectable Copper Creeper Coin",
   "item.villagerunknown-villagercoin.collectable_copper_villager_coin": "Collectable Copper Villager Coin",
-  "item.villagerunknown-villagercoin.collectable_iron_villager_coin": "Collectable Iron Villager Coin",
-  "item.villagerunknown-villagercoin.collectable_gold_villager_coin": "Collectable Gold Villager Coin",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Collectable Copper Zombie Coin",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "Collectable Iron Golem Coin",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "Collectable Iron Vex Coin",
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "Collectable Gold Blaze Coin",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "Collectable Gold Piglin Coin",
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "Collectable Emerald Creeper Coin",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "Collectable Emerald Pillager Coin",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "Collectable Emerald Slime Coin",
   "item.villagerunknown-villagercoin.collectable_emerald_villager_coin": "Collectable Emerald Villager Coin",
-  "item.villagerunknown-villagercoin.collectable_netherite_villager_coin": "Collectable Netherite Villager Coin",
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Collectable Netherite Ender Dragon Coin",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Collectable Netherite Enderman Coin",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Collectable Netherite Wither Coin",
 
-  "advancements.villagercoin.pickup_collectable_copper_coin.title": "Take A Penny, Eat A Penny",
-  "advancements.villagercoin.pickup_collectable_copper_coin.description": "Acquire your first Collectable Copper Villager Coin",
+  "advancements.villagercoin.pickup_collectable_copper_creeper_coin.title": "C-R-E-E-P-E-R-S For Cash",
+  "advancements.villagercoin.pickup_collectable_copper_creeper_coin.description": "Acquire a Collectable Copper Creeper Coin",
 
-  "advancements.villagercoin.pickup_collectable_iron_coin.title": "It's Not Ironic, It's Chocolate",
-  "advancements.villagercoin.pickup_collectable_iron_coin.description": "Acquire your first Collectable Iron Villager Coin",
+  "advancements.villagercoin.pickup_collectable_copper_villager_coin.title": "Our Founding Villagers",
+  "advancements.villagercoin.pickup_collectable_copper_villager_coin.description": "Acquire a Collectable Copper Villager Coin",
 
-  "advancements.villagercoin.pickup_collectable_gold_coin.title": "Feeling A Little Gelty",
-  "advancements.villagercoin.pickup_collectable_gold_coin.description": "Acquire your first Collectable Gold Villager Coin",
+  "advancements.villagercoin.pickup_collectable_copper_zombie_coin.title": "Our Founding Zombies",
+  "advancements.villagercoin.pickup_collectable_copper_zombie_coin.description": "Acquire a Collectable Copper Zombie Coin",
 
-  "advancements.villagercoin.pickup_collectable_emerald_coin.title": "Hrm.. A Taste of Wealth",
-  "advancements.villagercoin.pickup_collectable_emerald_coin.description": "Acquire your first Collectable Emerald Villager Coin",
+  "advancements.villagercoin.pickup_collectable_iron_golem_coin.title": "More Valuable Than A Poppy",
+  "advancements.villagercoin.pickup_collectable_iron_golem_coin.description": "Acquire a Collectable Iron Golem Coin",
 
-  "advancements.villagercoin.pickup_collectable_netherite_coin.title": "It's An Acquired Taste",
-  "advancements.villagercoin.pickup_collectable_netherite_coin.description": "Acquire your first Collectable Netherite Villager Coin",
+  "advancements.villagercoin.pickup_collectable_iron_vex_coin.title": "Heads Or Wings",
+  "advancements.villagercoin.pickup_collectable_iron_vex_coin.description": "Acquire a Collectable Iron Vex Coin",
 
-  "advancements.villagercoin.collectable_villager_coins.title": "The Cost Of Groceries",
-  "advancements.villagercoin.collectable_villager_coins.description": "Acquire all of the collectable Villager Coins"
+  "advancements.villagercoin.pickup_collectable_iron_silverfish_coin.title": "Heads Or Tails",
+  "advancements.villagercoin.pickup_collectable_iron_silverfish_coin.description": "Acquire a Collectable Iron Silverfish Coin",
+
+  "advancements.villagercoin.pickup_collectable_gold_blaze_coin.title": "You Will Burn Through It",
+  "advancements.villagercoin.pickup_collectable_gold_blaze_coin.description": "Acquire a Collectable Gold Blaze Coin",
+
+  "advancements.villagercoin.pickup_collectable_gold_piglin_coin.title": "Oh Money",
+  "advancements.villagercoin.pickup_collectable_gold_piglin_coin.description": "Acquire a Collectable Gold Piglin Coin",
+
+  "advancements.villagercoin.pickup_collectable_gold_ghast_coin.title": "Worth Crying Over",
+  "advancements.villagercoin.pickup_collectable_gold_ghast_coin.description": "Acquire a Collectable Gold Ghast Coin",
+
+  "advancements.villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Break It Down",
+  "advancements.villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Acquire a Collectable Gold Magma Cube Coin",
+
+  "advancements.villagercoin.pickup_collectable_gold_wither_coin.title": "Heads Or Heads Or Heads",
+  "advancements.villagercoin.pickup_collectable_gold_wither_coin.description": "Acquire a Collectable Gold Wither Coin",
+
+  "advancements.villagercoin.pickup_collectable_emerald_creeper_coin.title": "That's One Pricey Explosion",
+  "advancements.villagercoin.pickup_collectable_emerald_creeper_coin.description": "Acquire a Collectable Emerald Creeper Coin",
+
+  "advancements.villagercoin.pickup_collectable_emerald_pillager_coin.title": "Our Founding Pillagers",
+  "advancements.villagercoin.pickup_collectable_emerald_pillager_coin.description": "Acquire a Collectable Emerald Pillager Coin",
+
+  "advancements.villagercoin.pickup_collectable_emerald_slime_coin.title": "No One's Going To Accept This",
+  "advancements.villagercoin.pickup_collectable_emerald_slime_coin.description": "Acquire a Collectable Emerald Slime Coin",
+
+  "advancements.villagercoin.pickup_collectable_emerald_villager_coin.title": "An Expensive Trade",
+  "advancements.villagercoin.pickup_collectable_emerald_villager_coin.description": "Acquire a Collectable Emerald Villager Coin",
+
+  "advancements.villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Rich In Wisdom",
+  "advancements.villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Acquire a Collectable Netherite Ender Dragon Coin",
+
+  "advancements.villagercoin.pickup_collectable_netherite_enderman_coin.title": "Teleport Into My Wallet",
+  "advancements.villagercoin.pickup_collectable_netherite_enderman_coin.description": "Acquire a Collectable Netherite Enderman Coin",
+
+  "advancements.villagercoin.pickup_collectable_netherite_wither_coin.title": "Money That Won't Wither Away",
+  "advancements.villagercoin.pickup_collectable_netherite_wither_coin.description": "Acquire a Collectable Netherite Wither Coin",
+
+  "advancements.villagercoin.collectable_copper_coins.title": "A Penny For Your Thoughts",
+  "advancements.villagercoin.collectable_copper_coins.description": "Acquire all of the Collectable Copper Coins",
+
+  "advancements.villagercoin.collectable_iron_coins.title": "Iron Coin Age Complete",
+  "advancements.villagercoin.collectable_iron_coins.description": "Acquire all of the Collectable Iron Coins",
+
+  "advancements.villagercoin.collectable_gold_coins.title": "Alright, Fine, You're A Pirate",
+  "advancements.villagercoin.collectable_gold_coins.description": "Acquire all of the Collectable Gold Coins",
+
+  "advancements.villagercoin.collectable_emerald_coins.title": "A True Treasure Hunter",
+  "advancements.villagercoin.collectable_emerald_coins.description": "Acquire all of the Collectable Emerald Coins",
+
+  "advancements.villagercoin.collectable_netherite_coins.title": "A Rich Ending",
+  "advancements.villagercoin.collectable_netherite_coins.description": "Acquire all of the Collectable Netherite Coins"
 
 }
