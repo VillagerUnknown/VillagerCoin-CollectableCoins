@@ -1,8 +1,13 @@
 # VillagerUnknown's Collectable Coins for Villager Coin
 
-Adds a variety of collectable coins to the Villager Coin mod.
+Adds a variety of collectable Copper, Iron, Gold, Emerald, and Netherite coins to Villager Coin.
 
-Collectable coins cannot be crafted and have a rarer chance of being found than the typical coins.
+Collectable coins can be traded with other players in your world, put on display in your base, or converted to the common Villager Coins of equal value through the crafting table for trading with Villagers.
+
+Collectable coins are valuable coins, rarer than common Villager Coins, with limited quantities in circulation. 
+
+Collectable coins have a maximum amount that can exist in the world. 
+When a coin is destroyed, and removed from the world, the maximum amount can be reached again allowing another coin to generate in the world.
 
 **Features**
 
@@ -11,10 +16,15 @@ Collectable coins cannot be crafted and have a rarer chance of being found than 
 * Optionally find collectable coins in vanilla structures.
 * Optionally earn collectable coins by killing some vanilla mobs.
 
-**Options**
+**Limited Quantities**
 
-* addCollectableCoinsToStructureLootTables - Adds Collectable Coins to Structure loot tables. (Default: true)
-* addCollectableCoinsToMobDrops - Adds Collectable Coins to Mob drops. (Default: true)
+Each type of coin has a limited number in circulation.
+
+- Copper: 5
+- Iron: 4
+- Gold: 3
+- Emerald: 2
+- Netherite: 1
 
 ## Support
 

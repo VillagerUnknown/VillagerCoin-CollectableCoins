@@ -3,7 +3,7 @@
   "id": "villagerunknown-collectablecoins",
   "version": "${version}",
   "name": "VillagerUnknown's Collectable Coins for Villager Coin",
-  "description": "Adds collectable coins to the Villager Coin mod.",
+  "description": "Adds a variety of collectable coins to the Villager Coin mod.",
   "authors": ["VillagerUnknown"],
   "contact": {
     "homepage":"https://github.com/VillagerUnknown",

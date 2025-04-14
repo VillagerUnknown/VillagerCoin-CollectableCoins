@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:root",
+  "parent": "villagerunknown-villagercoin:collectable_coins",
   "criteria": {
     "collectable_emerald_iron_golem_coin": {
       "conditions": {

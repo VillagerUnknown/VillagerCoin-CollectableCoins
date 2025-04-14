@@ -7,7 +7,7 @@
   "text.autoconfig.villagerunknown-collectablecoins.option.addCollectableCoinsToStructureLootTables": "Add Collectable Coins to Structure Loot Tables",
   "text.autoconfig.villagerunknown-collectablecoins.option.addCollectableCoinsToMobDrops": "Add Collectable Coins to Mob Drops",
 
-  "tag.item.villagerunknown-villagercoin.collectable_villager_coin": "Collectable Villager Coin",
+  "tag.item.villagerunknown-villagercoin.collectable": "Collectable Villager Coin",
 
   "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Collectable Copper Cat Coin",
   "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Collectable Copper Chicken Coin",
@@ -38,6 +38,9 @@
   "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Collectable Netherite Ender Dragon Coin",
   "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Collectable Netherite Enderman Coin",
   "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Collectable Netherite Wither Coin",
+
+  "advancements.villagercoin.collectable_coins.title": "Collectable Coins",
+  "advancements.villagercoin.collectable_coins.description": "Collected by Pillagers everywhere",
 
   "advancements.villagercoin.pickup_collectable_copper_cat_coin.title": "You're Lucky It's Heads Up",
   "advancements.villagercoin.pickup_collectable_copper_cat_coin.description": "Acquire a Collectable Copper Cat Coin",

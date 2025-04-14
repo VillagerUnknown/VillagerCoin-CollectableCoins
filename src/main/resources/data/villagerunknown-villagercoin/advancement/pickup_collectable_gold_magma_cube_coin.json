@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:root",
+  "parent": "villagerunknown-villagercoin:collectable_coins",
   "criteria": {
     "collectable_gold_magma_cube_coin": {
       "conditions": {
