@@ -4,8 +4,7 @@
 
   "text.autoconfig.villagerunknown-collectablecoins.category.General": "General",
 
-  "text.autoconfig.villagerunknown-collectablecoins.option.addCollectableCoinsToStructureLootTables": "Add Collectable Coins to Structure Loot Tables",
-  "text.autoconfig.villagerunknown-collectablecoins.option.addCollectableCoinsToMobDrops": "Add Collectable Coins to Mob Drops",
+  "text.autoconfig.villagerunknown-collectablecoins.option.enableTheUnknown": "Enable The Unknown",
 
   "tag.item.villagerunknown-villagercoin.collectable": "Collectable Villager Coin",
 
@@ -39,97 +38,97 @@
   "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Collectable Netherite Enderman Coin",
   "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Collectable Netherite Wither Coin",
 
-  "advancements.villagercoin.collectable_coins.title": "Collectable Coins",
-  "advancements.villagercoin.collectable_coins.description": "Collected by Pillagers everywhere",
+  "advancements.villagerunknown-villagercoin.collectable_coins.title": "Collectable Coins",
+  "advancements.villagerunknown-villagercoin.collectable_coins.description": "Collected by Pillagers everywhere",
 
-  "advancements.villagercoin.pickup_collectable_copper_cat_coin.title": "You're Lucky It's Heads Up",
-  "advancements.villagercoin.pickup_collectable_copper_cat_coin.description": "Acquire a Collectable Copper Cat Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "You're Lucky It's Heads Up",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "Acquire a Collectable Copper Cat Coin",
 
-  "advancements.villagercoin.pickup_collectable_copper_chicken_coin.title": "Clunk, Clunk",
-  "advancements.villagercoin.pickup_collectable_copper_chicken_coin.description": "Acquire a Collectable Copper Chicken Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "Clunk, Clunk",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "Acquire a Collectable Copper Chicken Coin",
 
-  "advancements.villagercoin.pickup_collectable_copper_creeper_coin.title": "C-R-E-E-P-E-R-S For Cash",
-  "advancements.villagercoin.pickup_collectable_copper_creeper_coin.description": "Acquire a Collectable Copper Creeper Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "C-R-E-E-P-E-R-S For Cash",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "Acquire a Collectable Copper Creeper Coin",
 
-  "advancements.villagercoin.pickup_collectable_copper_sheep_coin.title": "This Sheep Is Looking At You",
-  "advancements.villagercoin.pickup_collectable_copper_sheep_coin.description": "Acquire a Collectable Copper Sheep Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "This Sheep Is Looking At You",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "Acquire a Collectable Copper Sheep Coin",
 
-  "advancements.villagercoin.pickup_collectable_copper_iron_golem_coin.title": "More Valuable Than A Poppy",
-  "advancements.villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Acquire a Collectable Copper Iron Golem Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "More Valuable Than A Poppy",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Acquire a Collectable Copper Iron Golem Coin",
 
-  "advancements.villagercoin.pickup_collectable_copper_wolf_coin.title": "Howling For More",
-  "advancements.villagercoin.pickup_collectable_copper_wolf_coin.description": "Acquire a Collectable Copper Wolf Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "Howling For More",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "Acquire a Collectable Copper Wolf Coin",
 
-  "advancements.villagercoin.pickup_collectable_copper_zombie_coin.title": "Our Founding Zombies",
-  "advancements.villagercoin.pickup_collectable_copper_zombie_coin.description": "Acquire a Collectable Copper Zombie Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "Our Founding Zombies",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "Acquire a Collectable Copper Zombie Coin",
 
-  "advancements.villagercoin.pickup_collectable_iron_cat_coin.title": "Luck Shines Upon You",
-  "advancements.villagercoin.pickup_collectable_iron_cat_coin.description": "Acquire a Collectable Iron Cat Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "Luck Shines Upon You",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "Acquire a Collectable Iron Cat Coin",
 
-  "advancements.villagercoin.pickup_collectable_iron_chicken_coin.title": "Clink, Clink",
-  "advancements.villagercoin.pickup_collectable_iron_chicken_coin.description": "Acquire a Collectable Iron Chicken Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "Clink, Clink",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "Acquire a Collectable Iron Chicken Coin",
 
-  "advancements.villagercoin.pickup_collectable_iron_golem_coin.title": "Doesn't Even Cover The Tip",
-  "advancements.villagercoin.pickup_collectable_iron_golem_coin.description": "Acquire a Collectable Iron Golem Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "Doesn't Even Cover The Tip",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "Acquire a Collectable Iron Golem Coin",
 
-  "advancements.villagercoin.pickup_collectable_iron_sheep_coin.title": "Sheer Profit",
-  "advancements.villagercoin.pickup_collectable_iron_sheep_coin.description": "Acquire a Collectable Iron Sheep Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "Sheer Profit",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "Acquire a Collectable Iron Sheep Coin",
 
-  "advancements.villagercoin.pickup_collectable_iron_vex_coin.title": "Heads Or Wings",
-  "advancements.villagercoin.pickup_collectable_iron_vex_coin.description": "Acquire a Collectable Iron Vex Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "Heads Or Wings",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "Acquire a Collectable Iron Vex Coin",
 
-  "advancements.villagercoin.pickup_collectable_iron_silverfish_coin.title": "Heads Or Tails",
-  "advancements.villagercoin.pickup_collectable_iron_silverfish_coin.description": "Acquire a Collectable Iron Silverfish Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "Heads Or Tails",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "Acquire a Collectable Iron Silverfish Coin",
 
-  "advancements.villagercoin.pickup_collectable_gold_blaze_coin.title": "You Will Burn Through It",
-  "advancements.villagercoin.pickup_collectable_gold_blaze_coin.description": "Acquire a Collectable Gold Blaze Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "You Will Burn Through It",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "Acquire a Collectable Gold Blaze Coin",
 
-  "advancements.villagercoin.pickup_collectable_gold_piglin_coin.title": "Oh Money",
-  "advancements.villagercoin.pickup_collectable_gold_piglin_coin.description": "Acquire a Collectable Gold Piglin Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "Oh Money",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "Acquire a Collectable Gold Piglin Coin",
 
-  "advancements.villagercoin.pickup_collectable_gold_ghast_coin.title": "Worth Crying Over",
-  "advancements.villagercoin.pickup_collectable_gold_ghast_coin.description": "Acquire a Collectable Gold Ghast Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "Worth Crying Over",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "Acquire a Collectable Gold Ghast Coin",
 
-  "advancements.villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Break It Down",
-  "advancements.villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Acquire a Collectable Gold Magma Cube Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Break It Down",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Acquire a Collectable Gold Magma Cube Coin",
 
-  "advancements.villagercoin.pickup_collectable_gold_wither_coin.title": "Heads Or Heads Or Heads",
-  "advancements.villagercoin.pickup_collectable_gold_wither_coin.description": "Acquire a Collectable Gold Wither Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "Heads Or Heads Or Heads",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "Acquire a Collectable Gold Wither Coin",
 
-  "advancements.villagercoin.pickup_collectable_emerald_creeper_coin.title": "That's One Pricey Explosion",
-  "advancements.villagercoin.pickup_collectable_emerald_creeper_coin.description": "Acquire a Collectable Emerald Creeper Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "That's One Pricey Explosion",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "Acquire a Collectable Emerald Creeper Coin",
 
-  "advancements.villagercoin.pickup_collectable_emerald_pillager_coin.title": "Our Founding Pillagers",
-  "advancements.villagercoin.pickup_collectable_emerald_pillager_coin.description": "Acquire a Collectable Emerald Pillager Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "Our Founding Pillagers",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "Acquire a Collectable Emerald Pillager Coin",
 
-  "advancements.villagercoin.pickup_collectable_emerald_slime_coin.title": "No One's Going To Accept This",
-  "advancements.villagercoin.pickup_collectable_emerald_slime_coin.description": "Acquire a Collectable Emerald Slime Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "No One's Going To Accept This",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "Acquire a Collectable Emerald Slime Coin",
 
-  "advancements.villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "An Acceptable Payment",
-  "advancements.villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Acquire a Collectable Emerald Iron Golem Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "An Acceptable Payment",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Acquire a Collectable Emerald Iron Golem Coin",
 
-  "advancements.villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Rich In Wisdom",
-  "advancements.villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Acquire a Collectable Netherite Ender Dragon Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Rich In Wisdom",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Acquire a Collectable Netherite Ender Dragon Coin",
 
-  "advancements.villagercoin.pickup_collectable_netherite_enderman_coin.title": "Teleport Into My Wallet",
-  "advancements.villagercoin.pickup_collectable_netherite_enderman_coin.description": "Acquire a Collectable Netherite Enderman Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "Teleport Into My Wallet",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "Acquire a Collectable Netherite Enderman Coin",
 
-  "advancements.villagercoin.pickup_collectable_netherite_wither_coin.title": "Money That Won't Wither Away",
-  "advancements.villagercoin.pickup_collectable_netherite_wither_coin.description": "Acquire a Collectable Netherite Wither Coin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "Money That Won't Wither Away",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "Acquire a Collectable Netherite Wither Coin",
 
-  "advancements.villagercoin.collectable_copper_coins.title": "A Penny For Your Thoughts",
-  "advancements.villagercoin.collectable_copper_coins.description": "Acquire all of the Collectable Copper Coins",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "A Penny For Your Thoughts",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "Acquire all of the Collectable Copper Coins",
 
-  "advancements.villagercoin.collectable_iron_coins.title": "Iron Coin Age Complete",
-  "advancements.villagercoin.collectable_iron_coins.description": "Acquire all of the Collectable Iron Coins",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "Iron Coin Age Complete",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "Acquire all of the Collectable Iron Coins",
 
-  "advancements.villagercoin.collectable_gold_coins.title": "Alright, Fine, You're A Pirate",
-  "advancements.villagercoin.collectable_gold_coins.description": "Acquire all of the Collectable Gold Coins",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "Alright, Fine, You're A Pirate",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "Acquire all of the Collectable Gold Coins",
 
-  "advancements.villagercoin.collectable_emerald_coins.title": "A True Treasure Hunter",
-  "advancements.villagercoin.collectable_emerald_coins.description": "Acquire all of the Collectable Emerald Coins",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "A True Treasure Hunter",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "Acquire all of the Collectable Emerald Coins",
 
-  "advancements.villagercoin.collectable_netherite_coins.title": "A Rich Ending",
-  "advancements.villagercoin.collectable_netherite_coins.description": "Acquire all of the Collectable Netherite Coins"
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "A Rich Ending",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "Acquire all of the Collectable Netherite Coins"
 
 }

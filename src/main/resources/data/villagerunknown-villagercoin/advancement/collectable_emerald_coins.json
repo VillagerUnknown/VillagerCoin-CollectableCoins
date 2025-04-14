@@ -23,7 +23,7 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.villagercoin.collectable_emerald_coins.description"
+      "translate": "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description"
     },
     "frame": "challenge",
     "icon": {
@@ -31,7 +31,7 @@
       "id": "villagerunknown-villagercoin:collectable_emerald_iron_golem_coin"
     },
     "title": {
-      "translate": "advancements.villagercoin.collectable_emerald_coins.title"
+      "translate": "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title"
     }
   },
   "requirements": [

@@ -89,7 +89,7 @@
     },
     "show_toast": false,
     "title": {
-      "translate": "advancements.villagercoin.collectable_coins.root.title"
+      "translate": "advancements.villagerunknown-villagercoin.collectable_coins.root.title"
     }
   },
   "requirements": [

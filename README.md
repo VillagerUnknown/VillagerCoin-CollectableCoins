@@ -20,11 +20,11 @@ When a coin is destroyed, and removed from the world, the maximum amount can be 
 
 Each type of coin has a limited number in circulation.
 
-- Copper: 5
-- Iron: 4
-- Gold: 3
-- Emerald: 2
-- Netherite: 1
+- Copper: 5 of each
+- Iron: 4 of each
+- Gold: 3 of each
+- Emerald: 2 of each
+- Netherite: 1 of each
 
 ## Support
 

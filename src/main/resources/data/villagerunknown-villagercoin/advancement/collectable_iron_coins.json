@@ -29,7 +29,7 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.villagercoin.collectable_iron_coins.description"
+      "translate": "advancements.villagerunknown-villagercoin.collectable_iron_coins.description"
     },
     "frame": "challenge",
     "icon": {
@@ -37,7 +37,7 @@
       "id": "villagerunknown-villagercoin:collectable_iron_golem_coin"
     },
     "title": {
-      "translate": "advancements.villagercoin.collectable_iron_coins.title"
+      "translate": "advancements.villagerunknown-villagercoin.collectable_iron_coins.title"
     }
   },
   "requirements": [

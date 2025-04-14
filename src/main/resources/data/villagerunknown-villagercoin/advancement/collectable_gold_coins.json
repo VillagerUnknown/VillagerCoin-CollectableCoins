@@ -26,7 +26,7 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.villagercoin.collectable_gold_coins.description"
+      "translate": "advancements.villagerunknown-villagercoin.collectable_gold_coins.description"
     },
     "frame": "challenge",
     "icon": {
@@ -34,7 +34,7 @@
       "id": "villagerunknown-villagercoin:collectable_gold_piglin_coin"
     },
     "title": {
-      "translate": "advancements.villagercoin.collectable_gold_coins.title"
+      "translate": "advancements.villagerunknown-villagercoin.collectable_gold_coins.title"
     }
   },
   "requirements": [
