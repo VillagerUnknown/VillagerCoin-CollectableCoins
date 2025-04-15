@@ -1,5 +1,7 @@
 # VillagerUnknown's Collectable Coins for Villager Coin
 
+_This is an addon mod for Villager Coin._
+
 Adds a variety of collectable Copper, Iron, Gold, Emerald, and Netherite coins to Villager Coin.
 
 Collectable coins can be traded with other players in your world, put on display in your base, or converted to the common Villager Coins of equal value through the crafting table for trading with Villagers.
