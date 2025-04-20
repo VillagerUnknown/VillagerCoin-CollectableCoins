@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:collectable_emerald_creeper_coin",
+    "villagerunknown-villagercoin:collectable_emerald_pillager_coin",
+    "villagerunknown-villagercoin:collectable_emerald_slime_coin",
+    "villagerunknown-villagercoin:collectable_emerald_iron_golem_coin"
+  ]
+}

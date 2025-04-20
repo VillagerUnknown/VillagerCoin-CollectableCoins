@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:collectable_gold_blaze_coin",
+    "villagerunknown-villagercoin:collectable_gold_piglin_coin",
+    "villagerunknown-villagercoin:collectable_gold_ghast_coin",
+    "villagerunknown-villagercoin:collectable_gold_magma_cube_coin",
+    "villagerunknown-villagercoin:collectable_gold_wither_coin"
+  ]
+}
