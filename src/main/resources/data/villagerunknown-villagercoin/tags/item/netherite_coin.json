@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:collectable_netherite_ender_dragon_coin",
+    "villagerunknown-villagercoin:collectable_netherite_enderman_coin",
+    "villagerunknown-villagercoin:collectable_netherite_wither_coin"
+  ]
+}

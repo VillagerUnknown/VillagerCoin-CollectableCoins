@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:collectable_copper_cat_coin",
+    "villagerunknown-villagercoin:collectable_copper_chicken_coin",
+    "villagerunknown-villagercoin:collectable_copper_creeper_coin",
+    "villagerunknown-villagercoin:collectable_copper_sheep_coin",
+    "villagerunknown-villagercoin:collectable_copper_iron_golem_coin",
+    "villagerunknown-villagercoin:collectable_copper_zombie_coin"
+  ]
+}
