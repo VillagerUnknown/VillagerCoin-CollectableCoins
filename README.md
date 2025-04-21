@@ -28,6 +28,48 @@ Each type of coin has a limited number in circulation.
 - Emerald: 2 of each
 - Netherite: 1 of each
 
+## Included Collectable Coins
+
+### Copper Coins
+
+- Copper Cat - Kill Cats or search chests in Village Houses.
+- Copper Chicken - Kill Chickens or search chests in the Village Fletchers.
+- Copper Creeper - Kill Creepers, brush suspicious sand or gravel in deserts, or search chests in Jungle Temples and Desert Temples.
+- Copper Sheep - Kill Sheep or search the Village Shephards.
+- Copper Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts.
+- Copper Wolf - Kill Wolves or search chests in Trial Chambers rewards.
+- Copper Zombie - Kill Zombies or search chests in Ancient Cities.
+
+### Iron Coins
+
+- Iron Cat - Kill Cats or search chests in Village Houses.
+- Iron Chicken - Kill Chickens or search chests in the Village Fletchers.
+- Iron Golem - Kill Iron Golems or search chests in the Village Armorers and Pillager Outposts.
+- Iron Sheep - Kill Sheep or search the Village Shephards.
+- Iron Vex - Kill Vexes or search chests in Woodland Mansions.
+- Iron Silverfish - Kill Silverfish or search chests in Stronghold Libraries.
+
+### Gold Coins
+
+- Gold Blaze - Kill Blazes or search chests in Nether Fortresses.
+- Gold Piglin - Kill Piglins or search chests in Bastions.
+- Gold Ghast - Kill Ghasts.
+- Gold Magma Cube - Kill Magma Cubes.
+- Gold Wither - Kill Wither Skeletons, Withers, or search chests in Nether Fortresses.
+
+### Emerald Coins
+
+- Emerald Creeper - Kill Creepers, brush suspicious sand or gravel in deserts, or search chests in Jungle Temples and Desert Temples.
+- Emerald Pillager - Kill Pillagers or search chests in Pillager Outposts or Woodland Mansions.
+- Emerald Slime - Kill Slimes.
+- Emerald Iron Golem - Kill Iron Golems or search chests in the Village Armorers or Pillager Outposts.
+
+### Netherite Coins
+
+- Netherite Enderman - Kill Enderman or search chests in End Cities.
+- Netherite Ender Dragon - Kill Ender Dragons.
+- Netherite Wither - Kill Withers.
+
 ## Support
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins/issues
