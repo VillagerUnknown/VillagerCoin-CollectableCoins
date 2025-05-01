@@ -25,9 +25,9 @@
     ]
   },
   "mixins": [
-    "collectablecoins.mixins.json",
+    "villagercoin-collectablecoins.mixins.json",
     {
-      "config": "collectablecoins.client.mixins.json",
+      "config": "villagercoin-collectablecoins.client.mixins.json",
       "environment": "client"
     }
   ],
