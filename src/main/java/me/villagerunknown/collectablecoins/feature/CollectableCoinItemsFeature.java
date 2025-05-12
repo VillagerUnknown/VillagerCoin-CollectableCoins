@@ -1,9 +1,9 @@
-package me.villagerunknown.collectablecoins.feature.loader;
+package me.villagerunknown.collectablecoins.feature;
 
 import me.villagerunknown.collectablecoins.item.CollectableCoinItems;
 import me.villagerunknown.villagercoin.feature.CollectableCoinFeature;
 
-public class CollectableCoinFeatureLoader {
+public class CollectableCoinItemsFeature {
 	
 	public static void execute() {
 		CollectableCoinFeature.execute();
