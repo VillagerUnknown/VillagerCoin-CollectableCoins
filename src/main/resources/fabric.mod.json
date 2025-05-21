@@ -10,7 +10,7 @@
     "sources":"https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins",
     "issues":"https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins/issues"
   },
-  "license": "CC-BY-4.0",
+  "license": "MIT",
   "icon": "assets/villagerunknown-collectablecoins/villagerunknown-collectable-coins.png",
   "environment": "*",
   "entrypoints": {
