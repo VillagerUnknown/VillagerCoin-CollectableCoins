@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Коллекционная медная монета с кошкой",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Коллекционная медная монета с курицей",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Коллекционная медная монета с крипером",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "Коллекционная медная монета с овцой",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "Коллекционная медная монета с железным големом",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "Коллекционная медная монета с волком",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Коллекционная медная монета с зомби",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "Коллекционная железная монета с кошкой",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "Коллекционная железная монета с курицей",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "Коллекционная железная монета с големом",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "Коллекционная железная монета с овцой",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "Коллекционная железная монета с чешуйницей",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "Коллекционная железная монета с вексом",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "Коллекционная золотая монета с ифритом",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "Коллекционная золотая монета с гастом",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "Коллекционная золотая монета с магмовым кубом",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "Коллекционная золотая монета с пиглином",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "Коллекционная золотая монета с визером",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "Коллекционная изумрудная монета с крипером",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "Коллекционная изумрудная монета с разбойником",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "Коллекционная изумрудная монета со слизнем",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "Коллекционная изумрудная монета с железным големом",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Коллекционная незеритовая монета с драконом Энда",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Коллекционная незеритовая монета с эндерменом",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Коллекционная незеритовая монета с визером",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "Коллекционные монеты",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "Соберите редкие и уникальные монеты",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "Медный кот",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "Получите коллекционную медную монету с котом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "Медленное яйцо",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "Получите коллекционную медную монету с курицей",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "Медный взрыв",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "Получите коллекционную медную монету с крипером",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "Медная шерсть",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "Получите коллекционную медную монету с овцой",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "Медный защитник",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Получите коллекционную медную монету с железным големом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "Медный волк",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "Получите коллекционную медную монету с волком",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "Медный зомби",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "Получите коллекционную медную монету с зомби",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "Железный кот",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "Получите коллекционную железную монету с котом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "Железный цыплёнок",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "Получите коллекционную железную монету с курицей",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "Голем из железа",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "Получите коллекционную железную монету с големом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "Железная овца",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "Получите коллекционную железную монету с овцой",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "Железный векс",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "Получите коллекционную железную монету с вексом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "Железная чешуйница",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "Получите коллекционную железную монету с чешуйницей",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "Золотой ифрит",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "Получите коллекционную золотую монету с ифритом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "Золотой пиглин",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "Получите коллекционную золотую монету с пиглином",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "Золотой гаст",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "Получите коллекционную золотую монету с гастом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Золотой магмакуб",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Получите коллекционную золотую монету с магмовым кубом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "Золотой визер",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "Получите коллекционную золотую монету с визером",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "Изумрудный крипер",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "Получите коллекционную изумрудную монету с крипером",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "Изумрудный разбойник",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "Получите коллекционную изумрудную монету с разбойником",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "Изумрудный слизень",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "Получите коллекционную изумрудную монету со слизнем",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "Изумрудный голем",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Получите коллекционную изумрудную монету с железным големом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Незеритовый дракон",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Получите коллекционную незеритовую монету с драконом Энда",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "Незеритовый эндермен",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "Получите коллекционную незеритовую монету с эндерменом",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "Незеритовый визер",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "Получите коллекционную незеритовую монету с визером",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "Коллекционер меди",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "Соберите все коллекционные медные монеты",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "Коллекционер железа",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "Соберите все коллекционные железные монеты",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "Коллекционер золота",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "Соберите все коллекционные золотые монеты",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "Коллекционер изумрудов",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "Соберите все коллекционные изумрудные монеты",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "Коллекционер незерита",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "Соберите все коллекционные незеритовые монеты"
+
+}

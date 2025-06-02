@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "銅のネココイン",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "銅のニワトリコイン",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "銅のクリーパ―コイン",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "銅のヒツジコイン",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "銅のアイアンゴーレムコイン",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "銅のオオカミコイン",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "銅のゾンビコイン",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "鉄のネココイン",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "鉄のニワトリコイン",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "鉄のゴーレムコイン",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "鉄のヒツジコイン",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "鉄のシルバーフィッシュコイン",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "鉄のヴェックスコイン",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "金のブレイズコイン",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "金のガストコイン",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "金のマグマキューブコイン",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "金のピグリンコイン",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "金のウィザーコイン",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "エメラルドのクリーパ―コイン",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "エメラルドのピリジャーコイン",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "エメラルドのスライムコイン",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "エメラルドのアイアンゴーレムコイン",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "ネザライトのエンダードラゴンコイン",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "ネザライトのエンダーマンコイン",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "ネザライトのウィザーコイン",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "収集可能なコイン",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "珍しくて特別なコインを集めよう",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "銅のネコ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "銅のネココインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "銅のニワトリ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "銅のニワトリコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "銅のクリーパー",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "銅のクリーパーコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "銅のヒツジ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "銅のヒツジコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "銅のゴーレム",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "銅のアイアンゴーレムコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "銅のオオカミ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "銅のオオカミコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "銅のゾンビ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "銅のゾンビコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "鉄のネコ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "鉄のネココインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "鉄のニワトリ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "鉄のニワトリコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "鉄のゴーレム",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "鉄のゴーレムコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "鉄のヒツジ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "鉄のヒツジコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "鉄のヴェックス",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "鉄のヴェックスコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "鉄のシルバーフィッシュ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "鉄のシルバーフィッシュコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "金のブレイズ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "金のブレイズコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "金のピグリン",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "金のピグリンコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "金のガスト",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "金のガストコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "金のマグマキューブ",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "金のマグマキューブコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "金のウィザー",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "金のウィザーコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "エメラルドのクリーパー",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "エメラルドのクリーパーコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "エメラルドのピリジャー",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "エメラルドのピリジャーコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "エメラルドのスライム",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "エメラルドのスライムコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "エメラルドのゴーレム",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "エメラルドのゴーレムコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "ネザライトのエンダードラゴン",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "ネザライトのエンダードラゴンコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "ネザライトのエンダーマン",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "ネザライトのエンダーマンコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "ネザライトのウィザー",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "ネザライトのウィザーコインを入手する",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "銅コインコレクター",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "すべての銅製記念コインを集めよう",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "鉄コインコレクター",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "すべての鉄製記念コインを集めよう",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "金コインコレクター",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "すべての金製記念コインを集めよう",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "エメラルドコインコレクター",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "すべてのエメラルド記念コインを集めよう",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "ネザライトコインコレクター",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "すべてのネザライト記念コインを集めよう"
+
+}

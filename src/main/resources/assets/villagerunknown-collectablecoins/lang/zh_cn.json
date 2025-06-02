@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "铜猫纪念币",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "铜鸡纪念币",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "铜苦力怕纪念币",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "铜羊纪念币",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "铜铁傀儡纪念币",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "铜狼纪念币",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "铜僵尸纪念币",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "铁猫纪念币",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "铁鸡纪念币",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "铁傀儡纪念币",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "铁羊纪念币",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "铁蠹鱼纪念币",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "铁恼鬼纪念币",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "金烈焰人纪念币",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "金恶魂纪念币",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "金岩浆怪纪念币",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "金猪灵纪念币",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "金凋灵纪念币",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "绿宝石苦力怕纪念币",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "绿宝石掠夺者纪念币",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "绿宝石史莱姆纪念币",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "绿宝石铁傀儡纪念币",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "下界合金末影龙纪念币",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "下界合金末影人纪念币",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "下界合金凋灵纪念币",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "可收集硬币",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "收集稀有和独特的硬币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "铜猫",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "获得铜猫纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "铜鸡",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "获得铜鸡纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "铜苦力怕",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "获得铜苦力怕纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "铜羊",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "获得铜羊纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "铜傀儡",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "获得铜铁傀儡纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "铜狼",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "获得铜狼纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "铜僵尸",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "获得铜僵尸纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "铁猫",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "获得铁猫纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "铁鸡",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "获得铁鸡纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "铁傀儡",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "获得铁傀儡纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "铁羊",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "获得铁羊纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "铁恼鬼",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "获得铁恼鬼纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "铁蠹鱼",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "获得铁蠹鱼纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "金烈焰人",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "获得金烈焰人纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "金猪灵",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "获得金猪灵纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "金恶魂",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "获得金恶魂纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "金岩浆怪",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "获得金岩浆怪纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "金凋灵",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "获得金凋灵纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "绿宝石苦力怕",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "获得绿宝石苦力怕纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "绿宝石掠夺者",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "获得绿宝石掠夺者纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "绿宝石史莱姆",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "获得绿宝石史莱姆纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "绿宝石铁傀儡",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "获得绿宝石铁傀儡纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "下界合金末影龙",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "获得下界合金末影龙纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "下界合金末影人",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "获得下界合金末影人纪念币",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "下界合金凋灵",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "获得下界合金凋灵纪念币",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "铜币收藏家",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "收集所有铜制纪念币",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "铁币收藏家",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "收集所有铁制纪念币",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "金币收藏家",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "收集所有金制纪念币",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "绿宝石币收藏家",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "收集所有绿宝石纪念币",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "下界合金币收藏家",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "收集所有下界合金纪念币"
+
+}
