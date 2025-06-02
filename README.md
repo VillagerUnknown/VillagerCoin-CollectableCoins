@@ -77,7 +77,7 @@ Each type of coin has a limited number in circulation.
 
 ### Supported Languages
 
-* English
+* English _by VillagerUnknown_
 * Pirate English
 * Svenska (Swedish)
 * Français (French)
@@ -90,3 +90,5 @@ Each type of coin has a limited number in circulation.
 * 日本語 (Japanese)
 * हिन्दी (Hindi)
 * (Hebrew) עברית
+
+_Disclaimer: Unless noted otherwise, translations have been provided by automated services._
