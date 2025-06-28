@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Moneda Coleccionable de Gato de Cobre",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Moneda Coleccionable de Pollo de Cobre",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Moneda Coleccionable de Creeper de Cobre",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "Moneda Coleccionable de Oveja de Cobre",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "Moneda Coleccionable de Golem de Hierro de Cobre",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "Moneda Coleccionable de Lobo de Cobre",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Moneda Coleccionable de Zombi de Cobre",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "Moneda Coleccionable de Gato de Hierro",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "Moneda Coleccionable de Pollo de Hierro",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "Moneda Coleccionable de Golem de Hierro",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "Moneda Coleccionable de Oveja de Hierro",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "Moneda Coleccionable de Pez Plateado de Hierro",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "Moneda Coleccionable de Vex de Hierro",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "Moneda Coleccionable de Blaze de Oro",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "Moneda Coleccionable de Ghast de Oro",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "Moneda Coleccionable de Cubo de Magma de Oro",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "Moneda Coleccionable de Piglin de Oro",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "Moneda Coleccionable de Wither de Oro",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "Moneda Coleccionable de Creeper de Esmeralda",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "Moneda Coleccionable de Pillager de Esmeralda",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "Moneda Coleccionable de Slime de Esmeralda",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "Moneda Coleccionable de Golem de Hierro de Esmeralda",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Moneda Coleccionable de Dragón del End de Netherite",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Moneda Coleccionable de Enderman de Netherite",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Moneda Coleccionable de Wither de Netherite",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "Monedas Coleccionables",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "Colecciona monedas raras y especiales",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "Gato de Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "Recolecta la Moneda Coleccionable de Gato de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "Pollo de Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "Recolecta la Moneda Coleccionable de Pollo de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "Creeper de Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "Recolecta la Moneda Coleccionable de Creeper de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "Oveja de Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "Recolecta la Moneda Coleccionable de Oveja de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "Golem de Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Recolecta la Moneda Coleccionable de Golem de Hierro de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "Lobo de Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "Recolecta la Moneda Coleccionable de Lobo de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "Zombi de Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "Recolecta la Moneda Coleccionable de Zombi de Cobre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "Gato de Hierro",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "Recolecta la Moneda Coleccionable de Gato de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "Pollo de Hierro",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "Recolecta la Moneda Coleccionable de Pollo de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "Golem de Hierro",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "Recolecta la Moneda Coleccionable de Golem de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "Oveja de Hierro",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "Recolecta la Moneda Coleccionable de Oveja de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "Vex de Hierro",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "Recolecta la Moneda Coleccionable de Vex de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "Pez Plateado de Hierro",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "Recolecta la Moneda Coleccionable de Pez Plateado de Hierro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "Blaze Dorado",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "Recolecta la Moneda Coleccionable de Blaze de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "Piglin Dorado",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "Recolecta la Moneda Coleccionable de Piglin de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "Ghast Dorado",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "Recolecta la Moneda Coleccionable de Ghast de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Cubo de Magma Dorado",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Recolecta la Moneda Coleccionable de Cubo de Magma de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "Wither Dorado",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "Recolecta la Moneda Coleccionable de Wither de Oro",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "Creeper de Esmeralda",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "Recolecta la Moneda Coleccionable de Creeper de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "Pillager de Esmeralda",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "Recolecta la Moneda Coleccionable de Pillager de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "Slime de Esmeralda",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "Recolecta la Moneda Coleccionable de Slime de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "Golem de Esmeralda",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Recolecta la Moneda Coleccionable de Golem de Hierro de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Dragón del End de Netherite",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Recolecta la Moneda Coleccionable de Dragón del End de Netherite",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "Enderman de Netherite",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "Recolecta la Moneda Coleccionable de Enderman de Netherite",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "Wither de Netherite",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "Recolecta la Moneda Coleccionable de Wither de Netherite",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "Coleccionista de Cobre",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "Recolecta todas las Monedas Coleccionables de Cobre",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "Coleccionista de Hierro",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "Recolecta todas las Monedas Coleccionables de Hierro",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "Coleccionista de Oro",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "Recolecta todas las Monedas Coleccionables de Oro",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "Coleccionista de Esmeralda",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "Recolecta todas las Monedas Coleccionables de Esmeralda",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "Coleccionista de Netherite",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "Recolecta todas las Monedas Coleccionables de Netherite"
+
+}

@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Booty o' Copper: Scallywag Cat",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Booty o' Copper: Squawkin' Chicken",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Booty o' Copper: Boombeast",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "Booty o' Copper: Wooly Wanderer",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "Booty o' Copper: Clanky Mate",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "Booty o' Copper: Growlin' Hound",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Booty o' Copper: Undead Landlubber",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "Booty o' Iron: Scrappin' Cat",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "Booty o' Iron: Feathery Bawk",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "Booty o' Iron: Clanky Brute",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "Booty o' Iron: Bahin’ Beast",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "Booty o' Iron: Squirmy Critter",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "Booty o' Iron: Mischiefin’ Spirit",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "Booty o' Gold: Firebelchin' Fiend",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "Booty o' Gold: Wailin’ Wraith",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "Booty o' Gold: Burny Blob",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "Booty o' Gold: Greedy Swine",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "Booty o' Gold: Bone-Cursed Beast",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "Booty o' Emerald: Silent Bomber",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "Booty o' Emerald: Raidin’ Rogue",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "Booty o' Emerald: Slippy Slimer",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "Booty o' Emerald: Emerald Golem",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Netherite Treasure: Ender Leviathan",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Netherite Treasure: Shadowy Stalker",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Netherite Treasure: The Curséd Storm",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "Shiny Booty to Plunder",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "Snag yerself every rare doubloon ye can find!",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "Copper Cat",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "Snatch the copper coin o' the cat",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "Copper Chicken",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "Snatch the copper coin o' the chicken",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "Copper Creeper",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "Snatch the copper coin o' the creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "Copper Sheep",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "Snatch the copper coin o' the sheep",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "Copper Iron Golem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Snatch the copper coin o' the iron golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "Copper Wolf",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "Snatch the copper coin o' the wolf",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "Copper Zombie",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "Snatch the copper coin o' the zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "Iron Cat",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "Snatch the iron coin o' the cat",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "Iron Chicken",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "Snatch the iron coin o' the chicken",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "Iron Golem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "Snatch the iron coin o' the golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "Iron Sheep",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "Snatch the iron coin o' the sheep",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "Iron Vex",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "Snatch the iron coin o' the vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "Iron Silverfish",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "Snatch the iron coin o' the silverfish",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "Gold Blaze",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "Snatch the gold coin o' the blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "Gold Piglin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "Snatch the gold coin o' the piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "Gold Ghast",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "Snatch the gold coin o' the ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Gold Magma Cube",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Snatch the gold coin o' the magma cube",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "Gold Wither",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "Snatch the gold coin o' the wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "Emerald Creeper",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "Snatch the emerald coin o' the creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "Emerald Pillager",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "Snatch the emerald coin o' the pillager",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "Emerald Slime",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "Snatch the emerald coin o' the slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "Emerald Iron Golem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Snatch the emerald coin o' the iron golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Netherite Ender Dragon",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Snatch the netherite coin o' the ender dragon",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "Netherite Enderman",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "Snatch the netherite coin o' the enderman",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "Netherite Wither",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "Snatch the netherite coin o' the wither",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "Copper Coin Collector",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "Gather every copper-plated treasure",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "Iron Coin Collector",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "Find all the rustproof loot",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "Gold Coin Collector",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "Stash every glimmerin’ golden piece",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "Emerald Coin Collector",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "Claim the greenest jewels o' fortune",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "Netherite Coin Collector",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "Hold every cursed nether doubloon"
+
+}

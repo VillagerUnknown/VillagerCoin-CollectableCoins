@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Kopparsammynt: Katt",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Kopparsammynt: Höna",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Kopparsammynt: Creeper",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "Kopparsammynt: Får",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "Kopparsammynt: Järngolem",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "Kopparsammynt: Varg",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Kopparsammynt: Zombie",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "Järnsammynt: Katt",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "Järnsammynt: Höna",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "Järnsammynt: Golem",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "Järnsammynt: Får",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "Järnsammynt: Silverfisk",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "Järnsammynt: Vex",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "Guldsammynt: Blaze",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "Guldsammynt: Ghast",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "Guldsammynt: Magmakub",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "Guldsammynt: Piglin",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "Guldsammynt: Wither",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "Smaragdsammynt: Creeper",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "Smaragdsammynt: Plundrare",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "Smaragdsammynt: Slem",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "Smaragdsammynt: Järngolem",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Netheritsammynt: Enderdrake",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Netheritsammynt: Enderman",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Netheritsammynt: Wither",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "Samlarobjektmynt",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "Samla sällsynta och unika mynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "Koppar Katt",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "Få samlarobjektmynt: Koppar Katt",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "Koppar Höna",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "Få samlarobjektmynt: Koppar Höna",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "Koppar Creeper",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "Få samlarobjektmynt: Koppar Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "Koppar Får",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "Få samlarobjektmynt: Koppar Får",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "Koppar Järngolem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Få samlarobjektmynt: Koppar Järngolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "Koppar Varg",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "Få samlarobjektmynt: Koppar Varg",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "Koppar Zombie",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "Få samlarobjektmynt: Koppar Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "Järn Katt",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "Få samlarobjektmynt: Järn Katt",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "Järn Höna",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "Få samlarobjektmynt: Järn Höna",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "Järn Golem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "Få samlarobjektmynt: Järn Golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "Järn Får",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "Få samlarobjektmynt: Järn Får",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "Järn Vex",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "Få samlarobjektmynt: Järn Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "Järn Silverfisk",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "Få samlarobjektmynt: Järn Silverfisk",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "Guld Blaze",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "Få samlarobjektmynt: Guld Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "Guld Piglin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "Få samlarobjektmynt: Guld Piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "Guld Ghast",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "Få samlarobjektmynt: Guld Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Guld Magmakub",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Få samlarobjektmynt: Guld Magmakub",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "Guld Wither",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "Få samlarobjektmynt: Guld Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "Smaragd Creeper",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "Få samlarobjektmynt: Smaragd Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "Smaragd Plundrare",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "Få samlarobjektmynt: Smaragd Plundrare",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "Smaragd Slem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "Få samlarobjektmynt: Smaragd Slem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "Smaragd Järngolem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Få samlarobjektmynt: Smaragd Järngolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Netherit Enderdrake",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Få samlarobjektmynt: Netherit Enderdrake",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "Netherit Enderman",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "Få samlarobjektmynt: Netherit Enderman",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "Netherit Wither",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "Få samlarobjektmynt: Netherit Wither",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "Kopparmyntssamlare",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "Samla alla kopparmynt",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "Järnmyntssamlare",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "Samla alla järnmynt",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "Guldmyntssamlare",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "Samla alla guldmynt",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "Smaragdsmyntssamlare",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "Samla alla smaragdsmynt",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "Netheritmyntssamlare",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "Samla alla netheritmynt"
+
+}

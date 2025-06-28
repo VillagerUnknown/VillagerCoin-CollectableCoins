@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "कॉपर बिल्ली संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "कॉपर मुर्गी संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "कॉपर क्रीपर संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "कॉपर भेड़ संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "कॉपर आयरन गोलेम संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "कॉपर भेड़िया संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "कॉपर ज़ोंबी संग्रहणीय सिक्का",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "आयरन बिल्ली संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "आयरन मुर्गी संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "आयरन गोलेम संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "आयरन भेड़ संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "आयरन सिल्वरफ़िश संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "आयरन वैक्स संग्रहणीय सिक्का",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "गोल्ड ब्लेज़ संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "गोल्ड घास्ट संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "गोल्ड मैग्मा क्यूब संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "गोल्ड पिगलिन संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "गोल्ड विदर संग्रहणीय सिक्का",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "एमराल्ड क्रीपर संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "एमराल्ड पिलेजर संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "एमराल्ड स्लाइम संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "एमराल्ड आयरन गोलेम संग्रहणीय सिक्का",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "नेथराइट एंडर ड्रैगन संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "नेथराइट एंडरमैन संग्रहणीय सिक्का",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "नेथराइट विदर संग्रहणीय सिक्का",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "संग्रहणीय सिक्के",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "दुर्लभ और विशेष सिक्के इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "कॉपर बिल्ली",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "कॉपर बिल्ली संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "कॉपर मुर्गी",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "कॉपर मुर्गी संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "कॉपर क्रीपर",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "कॉपर क्रीपर संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "कॉपर भेड़",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "कॉपर भेड़ संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "कॉपर आयरन गोलेम",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "कॉपर आयरन गोलेम संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "कॉपर भेड़िया",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "कॉपर भेड़िया संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "कॉपर ज़ोंबी",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "कॉपर ज़ोंबी संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "आयरन बिल्ली",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "आयरन बिल्ली संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "आयरन मुर्गी",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "आयरन मुर्गी संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "आयरन गोलेम",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "आयरन गोलेम संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "आयरन भेड़",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "आयरन भेड़ संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "आयरन वैक्स",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "आयरन वैक्स संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "आयरन सिल्वरफ़िश",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "आयरन सिल्वरफ़िश संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "गोल्ड ब्लेज़",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "गोल्ड ब्लेज़ संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "गोल्ड पिगलिन",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "गोल्ड पिगलिन संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "गोल्ड घास्ट",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "गोल्ड घास्ट संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "गोल्ड मैग्मा क्यूब",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "गोल्ड मैग्मा क्यूब संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "गोल्ड विदर",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "गोल्ड विदर संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "एमराल्ड क्रीपर",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "एमराल्ड क्रीपर संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "एमराल्ड पिलेजर",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "एमराल्ड पिलेजर संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "एमराल्ड स्लाइम",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "एमराल्ड स्लाइम संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "एमराल्ड आयरन गोलेम",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "एमराल्ड आयरन गोलेम संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "नेथराइट एंडर ड्रैगन",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "नेथराइट एंडर ड्रैगन संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "नेथराइट एंडरमैन",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "नेथराइट एंडरमैन संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "नेथराइट विदर",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "नेथराइट विदर संग्रहणीय सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "कॉपर सिक्का संग्राहक",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "सभी कॉपर संग्रहणीय सिक्के इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "आयरन सिक्का संग्राहक",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "सभी आयरन संग्रहणीय सिक्के इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "गोल्ड सिक्का संग्राहक",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "सभी गोल्ड संग्रहणीय सिक्के इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "एमराल्ड सिक्का संग्राहक",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "सभी एमराल्ड संग्रहणीय सिक्के इकट्ठा करें",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "नेथराइट सिक्का संग्राहक",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "सभी नेथराइट संग्रहणीय सिक्के इकट्ठा करें"
+
+}

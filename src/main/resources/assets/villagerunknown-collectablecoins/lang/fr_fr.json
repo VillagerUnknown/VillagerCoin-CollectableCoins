@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Pièce de collection en cuivre : Chat",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Pièce de collection en cuivre : Poule",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Pièce de collection en cuivre : Creeper",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "Pièce de collection en cuivre : Mouton",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "Pièce de collection en cuivre : Golem de fer",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "Pièce de collection en cuivre : Loup",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Pièce de collection en cuivre : Zombie",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "Pièce de collection en fer : Chat",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "Pièce de collection en fer : Poule",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "Pièce de collection en fer : Golem",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "Pièce de collection en fer : Mouton",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "Pièce de collection en fer : Poisson d'argent",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "Pièce de collection en fer : Vex",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "Pièce de collection en or : Blaze",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "Pièce de collection en or : Ghast",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "Pièce de collection en or : Cube de magma",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "Pièce de collection en or : Piglin",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "Pièce de collection en or : Wither",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "Pièce de collection en émeraude : Creeper",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "Pièce de collection en émeraude : Pillard",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "Pièce de collection en émeraude : Slime",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "Pièce de collection en émeraude : Golem de fer",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Pièce de collection en netherite : Dragon de l'End",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Pièce de collection en netherite : Enderman",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Pièce de collection en netherite : Wither",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "Pièces de collection",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "Collectez des pièces rares et uniques",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "Chat en cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "Récupérez la pièce de collection représentant un(e) chat en cuivre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "Poule en cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "Récupérez la pièce de collection représentant un(e) poule en cuivre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "Creeper en cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "Récupérez la pièce de collection représentant un(e) creeper en cuivre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "Mouton en cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "Récupérez la pièce de collection représentant un(e) mouton en cuivre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "Golem de fer en cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Récupérez la pièce de collection représentant un(e) golem de fer en cuivre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "Loup en cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "Récupérez la pièce de collection représentant un(e) loup en cuivre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "Zombie en cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "Récupérez la pièce de collection représentant un(e) zombie en cuivre",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "Chat en fer",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "Récupérez la pièce de collection représentant un(e) chat en fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "Poule en fer",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "Récupérez la pièce de collection représentant un(e) poule en fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "Golem en fer",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "Récupérez la pièce de collection représentant un(e) golem en fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "Mouton en fer",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "Récupérez la pièce de collection représentant un(e) mouton en fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "Vex en fer",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "Récupérez la pièce de collection représentant un(e) vex en fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "Poisson d'argent en fer",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "Récupérez la pièce de collection représentant un(e) poisson d'argent en fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "Blaze en or",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "Récupérez la pièce de collection représentant un(e) blaze en or",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "Piglin en or",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "Récupérez la pièce de collection représentant un(e) piglin en or",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "Ghast en or",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "Récupérez la pièce de collection représentant un(e) ghast en or",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Cube de magma en or",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Récupérez la pièce de collection représentant un(e) cube de magma en or",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "Wither en or",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "Récupérez la pièce de collection représentant un(e) wither en or",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "Creeper en émeraude",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "Récupérez la pièce de collection représentant un(e) creeper en émeraude",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "Pillard en émeraude",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "Récupérez la pièce de collection représentant un(e) pillard en émeraude",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "Slime en émeraude",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "Récupérez la pièce de collection représentant un(e) slime en émeraude",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "Golem de fer en émeraude",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Récupérez la pièce de collection représentant un(e) golem de fer en émeraude",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Dragon de l'end en netherite",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Récupérez la pièce de collection représentant un(e) dragon de l'End en netherite",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "Enderman en netherite",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "Récupérez la pièce de collection représentant un(e) enderman en netherite",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "Wither en netherite",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "Récupérez la pièce de collection représentant un(e) wither en netherite",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "Collectionneur de pièces en cuivre",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "Collectez toutes les pièces de cuivre",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "Collectionneur de pièces en fer",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "Collectez toutes les pièces de fer",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "Collectionneur de pièces en or",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "Collectez toutes les pièces en or",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "Collectionneur de pièces en émeraude",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "Collectez toutes les pièces en émeraude",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "Collectionneur de pièces en netherite",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "Collectez toutes les pièces en netherite"
+
+}

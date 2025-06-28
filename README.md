@@ -74,3 +74,21 @@ Each type of coin has a limited number in circulation.
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins/issues
 * View the changelog at https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins/blob/main/CHANGELOG.md
+
+### Supported Languages
+
+* English _by VillagerUnknown_
+* Pirate English
+* Svenska (Swedish)
+* Français (French)
+* Italiano (Italian)
+* Deutsch (German)
+* Português do Brasil (Brazil Portuguese)
+* Русский (Russian)
+* 한국어 (Korean)
+* 简体中文 (Simplified Chinese)
+* 日本語 (Japanese)
+* हिन्दी (Hindi)
+* (Hebrew) עברית
+
+_Disclaimer: Unless noted otherwise, translations have been provided by automated services._

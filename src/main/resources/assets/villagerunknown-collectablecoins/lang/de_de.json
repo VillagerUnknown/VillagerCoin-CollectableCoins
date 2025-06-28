@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Kupferne Sammelmünze: Katze",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Kupferne Sammelmünze: Huhn",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Kupferne Sammelmünze: Creeper",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "Kupferne Sammelmünze: Schaf",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "Kupferne Sammelmünze: Eisengolem",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "Kupferne Sammelmünze: Wolf",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "Kupferne Sammelmünze: Zombie",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "Eiserne Sammelmünze: Katze",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "Eiserne Sammelmünze: Huhn",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "Eiserne Sammelmünze: Golem",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "Eiserne Sammelmünze: Schaf",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "Eiserne Sammelmünze: Silberfischchen",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "Eiserne Sammelmünze: Vex",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "Goldene Sammelmünze: Blaze",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "Goldene Sammelmünze: Ghast",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "Goldene Sammelmünze: Magmawürfel",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "Goldene Sammelmünze: Piglin",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "Goldene Sammelmünze: Wither",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "Smaragdene Sammelmünze: Creeper",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "Smaragdene Sammelmünze: Plünderer",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "Smaragdene Sammelmünze: Schleim",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "Smaragdene Sammelmünze: Eisengolem",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "Netheritmünze: Enderdrachen",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "Netheritmünze: Enderman",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "Netheritmünze: Wither",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "Sammelbare Münzen",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "Sammle seltene und einzigartige Münzen",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "Kupfer Katze",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "Erhalte die Sammelmünze: Kupfer Katze",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "Kupfer Huhn",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "Erhalte die Sammelmünze: Kupfer Huhn",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "Kupfer Creeper",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "Erhalte die Sammelmünze: Kupfer Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "Kupfer Schaf",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "Erhalte die Sammelmünze: Kupfer Schaf",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "Kupfer Eisengolem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "Erhalte die Sammelmünze: Kupfer Eisengolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "Kupfer Wolf",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "Erhalte die Sammelmünze: Kupfer Wolf",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "Kupfer Zombie",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "Erhalte die Sammelmünze: Kupfer Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "Eisen Katze",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "Erhalte die Sammelmünze: Eisen Katze",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "Eisen Huhn",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "Erhalte die Sammelmünze: Eisen Huhn",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "Eisen Golem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "Erhalte die Sammelmünze: Eisen Golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "Eisen Schaf",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "Erhalte die Sammelmünze: Eisen Schaf",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "Eisen Vex",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "Erhalte die Sammelmünze: Eisen Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "Eisen Silberfischchen",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "Erhalte die Sammelmünze: Eisen Silberfischchen",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "Gold Blaze",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "Erhalte die Sammelmünze: Gold Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "Gold Piglin",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "Erhalte die Sammelmünze: Gold Piglin",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "Gold Ghast",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "Erhalte die Sammelmünze: Gold Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "Gold Magmawürfel",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "Erhalte die Sammelmünze: Gold Magmawürfel",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "Gold Wither",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "Erhalte die Sammelmünze: Gold Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "Smaragd Creeper",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "Erhalte die Sammelmünze: Smaragd Creeper",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "Smaragd Plünderer",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "Erhalte die Sammelmünze: Smaragd Plünderer",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "Smaragd Schleim",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "Erhalte die Sammelmünze: Smaragd Schleim",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "Smaragd Eisengolem",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "Erhalte die Sammelmünze: Smaragd Eisengolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "Netherit Enderdrachen",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "Erhalte die Sammelmünze: Netherit Enderdrachen",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "Netherit Enderman",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "Erhalte die Sammelmünze: Netherit Enderman",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "Netherit Wither",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "Erhalte die Sammelmünze: Netherit Wither",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "Kupfermünzensammler",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "Sammle alle kupfernen Sammelmünzen",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "Eisenmünzensammler",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "Sammle alle eisernen Sammelmünzen",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "Goldmünzensammler",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "Sammle alle goldenen Sammelmünzen",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "Smaragdmünzensammler",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "Sammle alle smaragdenen Sammelmünzen",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "Netheritmünzensammler",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "Sammle alle Netherit-Sammelmünzen"
+
+}

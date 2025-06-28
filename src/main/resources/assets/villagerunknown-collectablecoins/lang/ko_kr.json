@@ -1,0 +1,128 @@
+{
+
+  "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "구리 수집용 동전: 고양이",
+  "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "구리 수집용 동전: 닭",
+  "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "구리 수집용 동전: 크리퍼",
+  "item.villagerunknown-villagercoin.collectable_copper_sheep_coin": "구리 수집용 동전: 양",
+  "item.villagerunknown-villagercoin.collectable_copper_iron_golem_coin": "구리 수집용 동전: 철 골렘",
+  "item.villagerunknown-villagercoin.collectable_copper_wolf_coin": "구리 수집용 동전: 늑대",
+  "item.villagerunknown-villagercoin.collectable_copper_zombie_coin": "구리 수집용 동전: 좀비",
+
+  "item.villagerunknown-villagercoin.collectable_iron_cat_coin": "철 수집용 동전: 고양이",
+  "item.villagerunknown-villagercoin.collectable_iron_chicken_coin": "철 수집용 동전: 닭",
+  "item.villagerunknown-villagercoin.collectable_iron_golem_coin": "철 수집용 동전: 골렘",
+  "item.villagerunknown-villagercoin.collectable_iron_sheep_coin": "철 수집용 동전: 양",
+  "item.villagerunknown-villagercoin.collectable_iron_silverfish_coin": "철 수집용 동전: 실버피시",
+  "item.villagerunknown-villagercoin.collectable_iron_vex_coin": "철 수집용 동전: 벡스",
+
+  "item.villagerunknown-villagercoin.collectable_gold_blaze_coin": "금 수집용 동전: 블레이즈",
+  "item.villagerunknown-villagercoin.collectable_gold_ghast_coin": "금 수집용 동전: 가스트",
+  "item.villagerunknown-villagercoin.collectable_gold_magma_cube_coin": "금 수집용 동전: 마그마 큐브",
+  "item.villagerunknown-villagercoin.collectable_gold_piglin_coin": "금 수집용 동전: 피글린",
+  "item.villagerunknown-villagercoin.collectable_gold_wither_coin": "금 수집용 동전: 위더",
+
+  "item.villagerunknown-villagercoin.collectable_emerald_creeper_coin": "에메랄드 수집용 동전: 크리퍼",
+  "item.villagerunknown-villagercoin.collectable_emerald_pillager_coin": "에메랄드 수집용 동전: 약탈자",
+  "item.villagerunknown-villagercoin.collectable_emerald_slime_coin": "에메랄드 수집용 동전: 슬라임",
+  "item.villagerunknown-villagercoin.collectable_emerald_iron_golem_coin": "에메랄드 수집용 동전: 철 골렘",
+
+  "item.villagerunknown-villagercoin.collectable_netherite_ender_dragon_coin": "네더라이트 수집용 동전: 엔더 드래곤",
+  "item.villagerunknown-villagercoin.collectable_netherite_enderman_coin": "네더라이트 수집용 동전: 엔더맨",
+  "item.villagerunknown-villagercoin.collectable_netherite_wither_coin": "네더라이트 수집용 동전: 위더",
+
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.title": "수집 가능한 동전",
+  "advancements.villagerunknown-villagercoin.collectable_coins.root.description": "희귀하고 독특한 동전을 수집하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.title": "구리 고양이",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_cat_coin.description": "구리 고양이 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.title": "구리 닭",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_chicken_coin.description": "구리 닭 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.title": "구리 크리퍼",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_creeper_coin.description": "구리 크리퍼 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.title": "구리 양",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_sheep_coin.description": "구리 양 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.title": "구리 철 골렘",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_iron_golem_coin.description": "구리 철 골렘 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.title": "구리 늑대",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_wolf_coin.description": "구리 늑대 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.title": "구리 좀비",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_copper_zombie_coin.description": "구리 좀비 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.title": "철 고양이",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_cat_coin.description": "철 고양이 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.title": "철 닭",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_chicken_coin.description": "철 닭 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.title": "철 골렘",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_golem_coin.description": "철 골렘 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.title": "철 양",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_sheep_coin.description": "철 양 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.title": "철 벡스",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_vex_coin.description": "철 벡스 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.title": "철 실버피시",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_iron_silverfish_coin.description": "철 실버피시 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.title": "금 블레이즈",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_blaze_coin.description": "금 블레이즈 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.title": "금 피글린",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_piglin_coin.description": "금 피글린 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.title": "금 가스트",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_ghast_coin.description": "금 가스트 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.title": "금 마그마 큐브",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_magma_cube_coin.description": "금 마그마 큐브 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.title": "금 위더",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_gold_wither_coin.description": "금 위더 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.title": "에메랄드 크리퍼",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_creeper_coin.description": "에메랄드 크리퍼 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.title": "에메랄드 약탈자",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_pillager_coin.description": "에메랄드 약탈자 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.title": "에메랄드 슬라임",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_slime_coin.description": "에메랄드 슬라임 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.title": "에메랄드 철 골렘",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_emerald_iron_golem_coin.description": "에메랄드 철 골렘 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.title": "네더라이트 엔더 드래곤",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_ender_dragon_coin.description": "네더라이트 엔더 드래곤 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.title": "네더라이트 엔더맨",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_enderman_coin.description": "네더라이트 엔더맨 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.title": "네더라이트 위더",
+  "advancements.villagerunknown-villagercoin.pickup_collectable_netherite_wither_coin.description": "네더라이트 위더 수집 동전을 획득하세요",
+
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.title": "구리 동전 수집가",
+  "advancements.villagerunknown-villagercoin.collectable_copper_coins.description": "모든 구리 수집 동전을 모으세요",
+
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.title": "철 동전 수집가",
+  "advancements.villagerunknown-villagercoin.collectable_iron_coins.description": "모든 철 수집 동전을 모으세요",
+
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.title": "금 동전 수집가",
+  "advancements.villagerunknown-villagercoin.collectable_gold_coins.description": "모든 금 수집 동전을 모으세요",
+
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.title": "에메랄드 동전 수집가",
+  "advancements.villagerunknown-villagercoin.collectable_emerald_coins.description": "모든 에메랄드 수집 동전을 모으세요",
+
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.title": "네더라이트 동전 수집가",
+  "advancements.villagerunknown-villagercoin.collectable_netherite_coins.description": "모든 네더라이트 수집 동전을 모으세요"
+
+}

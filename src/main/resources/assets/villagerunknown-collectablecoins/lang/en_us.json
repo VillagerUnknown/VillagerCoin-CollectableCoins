@@ -2,12 +2,6 @@
 
   "text.autoconfig.villagerunknown-collectablecoins.title": "VillagerUnknown's Collectable Coins for Villager Coin",
 
-  "text.autoconfig.villagerunknown-collectablecoins.category.General": "General",
-
-  "text.autoconfig.villagerunknown-collectablecoins.option.enableTheUnknown": "Enable The Unknown",
-
-  "tag.item.villagerunknown-villagercoin.collectable": "Collectable Villager Coin",
-
   "item.villagerunknown-villagercoin.collectable_copper_cat_coin": "Collectable Copper Cat Coin",
   "item.villagerunknown-villagercoin.collectable_copper_chicken_coin": "Collectable Copper Chicken Coin",
   "item.villagerunknown-villagercoin.collectable_copper_creeper_coin": "Collectable Copper Creeper Coin",
